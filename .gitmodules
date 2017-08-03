@@ -1,0 +1,4 @@
+[submodule "training1"]
+	path = training1
+	url = git@github.com:dave-ave/training1.git
+	branch = master
